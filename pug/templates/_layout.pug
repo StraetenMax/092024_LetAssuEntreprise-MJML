@@ -1,0 +1,46 @@
+mjml
+    mj-head
+        mj-title Lettre Ecosup Assurance - Entreprise Août 2024
+        mj-attributes
+            mj-all(font-family='Arial, Helvetica, sans-serif')/
+            mj-text(font-size='16px' font-weight='300' line-height='20px' color='#2D3748')/
+        mj-raw.
+            <meta name="color-scheme" content="light"/>
+            <meta name="supported-color-schemes" content="light"/>
+            <meta name="format-detection" content="telephone=no"/>
+            <meta name="format-detection" content="date=no"/>
+            <meta name="format-detection" content="address=no"/>
+            <meta name="format-detection" content="email=no"/>
+        mj-breakpoint(width='480px')/
+        mj-style.
+           .hover:hover td, .hover:hover a{
+             background-color: #684092 !important;
+           }
+            
+    mj-body(background-color='#fcfcfc')
+        //- block content
+        block content
+        //- block esa
+        block esa
+            include ../includes/_esa
+        //- block hero
+        block hero
+            include ../includes/_hero
+        //- block dossier
+        block edito
+            include ../includes/_edito
+        //- block cvbook
+        block cvBook
+            include ../includes/_cvbook
+        //- block form
+        block form
+            include ../includes/_form
+        //- block étudiant
+        block etudiant
+            include ../includes/_etudiant
+        //- block qualiopi
+        block qualiopi
+            include ../includes/_qualiopi
+        //- block footer
+        block footer
+            include ../includes/_footer
