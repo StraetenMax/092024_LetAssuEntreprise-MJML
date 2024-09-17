@@ -14,7 +14,7 @@
       <meta name="format-detection" content="address=no"/>
       <meta name="format-detection" content="email=no"/>
     </mj-raw>
-    <mj-breakpoint width="420px"/>
+    <mj-breakpoint width="480px"/>
     <mj-style>
       .hover:hover td, .hover:hover a{
         background-color: #684092 !important;
@@ -70,7 +70,7 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding-bottom="0">
       <mj-column width="30%">
-        <mj-image padding="0" fluid-on-mobile="true" border="none" src="https://i.ibb.co/LZs4m7L/news-AE02-082024.jpg" alt="étudiant motivé entrain de travailler en groupe"/>
+        <mj-image padding="0" width="480px" fluid-on-mobile="true" border="none" src="https://i.ibb.co/LZs4m7L/news-AE02-082024.jpg" alt="étudiant motivé entrain de travailler en groupe"/>
       </mj-column>
       <mj-column width="70%">
         <mj-text align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Formation en Apprentissage</mj-text>
@@ -81,7 +81,7 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding-top="0">
       <mj-column width="30%">
-        <mj-image padding="0" border="none" src="https://i.ibb.co/LZs4m7L/news-AE02-082024.jpg" alt="étudiant motivé entrain de travailler en groupe"/>
+        <mj-image padding="0" width="480px" border="none" src="https://i.ibb.co/LZs4m7L/news-AE02-082024.jpg" alt="étudiant motivé entrain de travailler en groupe"/>
       </mj-column>
       <mj-column width="70%">
         <mj-text font-size="16px" line-height="20px" font-weight="400"><span style="font-weight:700;">+ Aides financières :</span> Les entreprises bénéficient d'aides financières pour l'embauche d'apprentis, réduisant ainsi les coûts de recrutement.</mj-text>
