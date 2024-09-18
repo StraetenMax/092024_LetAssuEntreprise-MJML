@@ -14,7 +14,7 @@
       <meta name="format-detection" content="address=no"/>
       <meta name="format-detection" content="email=no"/>
     </mj-raw>
-    <mj-breakpoint width="420px"/>
+    <mj-breakpoint width="451px"/>
     <mj-style>
       .hover:hover td, .hover:hover a{
         background-color: #684092 !important;
@@ -24,7 +24,7 @@
   </mj-head>
   <mj-body background-color="#fcfcfc">
     <mj-section background-color="#270938" padding="0">
-      <mj-group width="480px">
+      <mj-group width="450px">
         <mj-column width="20%" padding-top="8px" padding-bottom="8px" padding-right="8px" vertical-align="middle">
           <mj-image padding="0" border="0" width="50px" align="right" src="https://i.ibb.co/xYKFMzh/logoESA.jpg" alt="logo ESA (École Supérieure Assurance)"/>
         </mj-column>
@@ -58,6 +58,24 @@
         <mj-text padding="5px 10px" align="left" font-size="16px" font-weight="300" color="#2D3748"><span style="font-weight:700;text-transform:uppercase">News Ecosup Assurance</span> | Septembre 2024  </mj-text>
       </mj-column>
     </mj-section>
+    <mj-section background-color="#EDF2F7" padding="0px">
+      <mj-column width="100%">
+        <mj-image padding="0" border="none" fluid-on-mobile="true" width="600px" target="_blank" src="https://i.ibb.co/kJtH67V/news-Bandeau092024.jpg" alt="Groupe d'étudiants entrain de discuter avec portrait de Christian ANNALORO, responsable pédagogique d'Ecosup Assurance"/>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#EDF2F7" padding-top="10px" padding-bottom="40px">
+      <mj-column width="88%"> 
+        <mj-text padding-top="5px" padding-bottom="0" font-size="14px" font-weight="900" line-height="18px" text-transform="uppercase" color="#944694">Édito</mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" font-style="italic" font-size="20px" font-weight="700" line-height="24px" color="#684092">Edito précédent texte et image à réaliser</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">Chers partenaires,</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">C'est avec une grande satisfaction que nous accueillons dès ce mercredi 4 septembre une partie de nos nouvelles promotions d'étudiants qui intégreront pour certains d'entre eux vos entreprises. Nous sommes convaincus que cette <span style="font-weight:700;">nouvelle collaboration sera fructueuse</span> pour tous.</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748"><span style="font-weight:700">La qualité de l'enseignement pour Ecosup Assurance</span> est un enjeu majeur tant pour l'avenir de nos futurs diplômés, pour les besoins des acteurs du marché et pour le rayonnement de notre école !</mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">C'est au travers de programmes pédagogiques innovants et ambitieux, d'intervenants passionnés par leurs métiers, d'une équipe pédagogique dévouée et engagée et d'une longue expérience de l'enseignement qu'
+          <sapn style="font-weight:700;">Ecosup Assurance vous garantit une formation d'exception</sapn>.
+        </mj-text>
+        <mj-text padding-top="5px" padding-bottom="5px" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">Nous sommes convaincus que cette nouvelle année sera synonyme de <span style="font-weight:700;">réussites partagées</span>. Nous restons comme toujours à votre entière disposition et nous vous souhaitons une bonne rentrée !</mj-text>
+      </mj-column>
+    </mj-section>
     <mj-section background-color="#270938">
       <mj-column width="30%">
         <mj-image padding="10px 0" border="none" target="_blank" src="https://i.ibb.co/SmTfMy7/news-AE04-082024.jpg" href="https://ecosup-assurance.fr/cv-book/" alt="Couverture du nouveau CV Book avec de nouveaux étudiants"/>
@@ -70,7 +88,7 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding-bottom="0">
       <mj-column width="30%">
-        <mj-image padding="10px 0px" width="480px" fluid-on-mobile="true" border="none" src="https://i.ibb.co/h9wPCRm/news092024-3.jpg" alt="étudiant motivé entrain de travailler en groupe"/>
+        <mj-image padding="10px 0px" width="480px" fluid-on-mobile="true" border="none" src="https://i.ibb.co/6bXK3Zs/news092024a.jpg" alt="L'apprentissage c'est top"/>
       </mj-column>
       <mj-column width="70%">
         <mj-text padding="0px 25px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Formation</mj-text>
@@ -81,7 +99,7 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding-top="0">
       <mj-column width="30%">
-        <mj-image padding="10px 0px" width="480px" border="none" src="https://i.ibb.co/b2gZpkv/news092024-02.jpg" alt="étudiant motivé entrain de travailler en groupe"/>
+        <mj-image padding="10px 0px" width="480px" border="none" src="https://i.ibb.co/R30M85c/news092024b.jpg" alt="Équipe d'apprentis et d'employés entrain de travailler ensemble"/>
       </mj-column>
       <mj-column width="70%">
         <mj-text padding="5px 25px" font-size="16px" line-height="20px" font-weight="400"><span style="font-weight:700;">+ Aides financières :</span> Les entreprises bénéficient d'aides financières pour l'embauche d'apprentis, réduisant ainsi les coûts de recrutement.</mj-text>
@@ -91,6 +109,10 @@
       </mj-column>
     </mj-section>
     <mj-section background-color="#edf2f7" padding-left="23px" padding-right="23px">
+      <mj-column width="100%">
+        <mj-text padding="0px 2px" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Apprentissage</mj-text>
+        <mj-text padding="0px 2px 10px 2px" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Les entreprises partenaires qui accueillent nos étudiants</mj-text>
+      </mj-column>
       <mj-group width="50%">
         <mj-column background-color="#edf2F7" padding="2px">
           <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/NghZ413/GG-SMA.jpg" alt="GC SMA BTP"></mj-image>
@@ -101,7 +123,7 @@
       </mj-group>
       <mj-group width="50%">
         <mj-column background-color="#edf2F7" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/5rjq3d7/deledalle-Logo.png" alt="Deledalle assurance"></mj-image>
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/9TCzHwq/Deledalle-Assurance.jpg" alt="Deledalle assurance"></mj-image>
         </mj-column>
         <mj-column background-color="#edf2F7" padding="2px">
           <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/NZPRJtt/G-Credit-Agricole.jpg" alt="Crédit Agricole"></mj-image>
@@ -129,14 +151,19 @@
         <mj-spacer container-background-color="#fcfcfc" height="20px"></mj-spacer>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#EDF2F7" padding="17px"> 
+    <mj-section background-color="#edf2f7" padding="17px"> 
       <mj-column width="30%" padding="8px">
         <mj-image align="left" padding="0" border="none" src="https://i.ibb.co/4Jb4Srt/Logo-Qualiopi-T.png" alt="Logo de la certification Qualiopi"/>
       </mj-column>
       <mj-column width="70%" padding="8px">
         <mj-text padding="0" font-size="16px" line-height="20px" font-weight="400">La certification qualité a été délivrée au titre des catégories d'actions suivantes :</mj-text>
-        <mj-text padding="0" font-size="16px" line-height="20px" font-weight="400" text-transform="uppercase"> action de formation </mj-text>
+        <mj-text padding="0" font-size="16px" line-height="20px" font-weight="400" text-transform="uppercase">action de formation </mj-text>
         <mj-text padding="0" font-size="16px" line-height="20px" font-weight="400" text-transform="uppercase">action de formation par apprentissage</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-spacer container-background-color="#fcfcfc" height="20px"></mj-spacer>
       </mj-column>
     </mj-section>
     <mj-section background-color="#270938" padding="20px 32px">
