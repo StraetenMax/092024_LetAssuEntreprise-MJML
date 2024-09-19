@@ -29,7 +29,7 @@
           <mj-image padding="0" border="0" width="50px" align="right" src="https://i.ibb.co/xYKFMzh/logoESA.jpg" alt="logo ESA (École Supérieure Assurance)"/>
         </mj-column>
         <mj-column width="80%" padding-top="8px" padding-bottom="8px" padding-left="8px" vertical-align="middle">
-          <mj-text padding="0" font-size="16px" line-height="20px" font-weight="300" color="#ffffff">Ecosup Assurance partenaire de l'ESA Paris <span style="font-style:italic">(École Supérieure d'Assurance)</span></mj-text>
+          <mj-text padding="0" font-size="14px" line-height="18px" font-weight="300" color="#ffffff">Ecosup Assurance partenaire de l'ESA Paris <span style="font-style:italic">(École Supérieure d'Assurance)</span></mj-text>
         </mj-column>
       </mj-group>
     </mj-section>
@@ -45,7 +45,7 @@
     </mj-section>
     <mj-section background-color="#EDF2F7" padding="0">
       <mj-column width="95%">
-        <mj-social align="right" padding-top="0" padding-bottom="0" padding-left="10px" padding-right="10px" icon-size="30px" mode="horizontal">
+        <mj-social align="right" padding-top="0" padding-bottom="0" padding-left="10px" padding-right="10px" icon-size="25px" mode="horizontal">
           <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d604fd0d41f3120a8cdf5.png" href="https://www.facebook.com/EcosupAssurance/" alt="icon Facebook"></mj-social-element>
           <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d605a373b24d832a3970d.png" href="https://www.instagram.com/ecosup.campus/" alt="icon Instagram"></mj-social-element>
           <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d6047d0d41f3120a8cdec.png" href="https://linkedin.com/company/ecosup-campus" alt="icon Linkedin">    </mj-social-element>
@@ -156,9 +156,9 @@
         <mj-image align="left" padding="0" border="none" src="https://i.ibb.co/4Jb4Srt/Logo-Qualiopi-T.png" alt="Logo de la certification Qualiopi"/>
       </mj-column>
       <mj-column width="70%" padding="8px">
-        <mj-text padding="0" font-size="16px" line-height="20px" font-weight="400">La certification qualité a été délivrée au titre des catégories d'actions suivantes :</mj-text>
-        <mj-text padding="0" font-size="16px" line-height="20px" font-weight="400" text-transform="uppercase">action de formation </mj-text>
-        <mj-text padding="0" font-size="16px" line-height="20px" font-weight="400" text-transform="uppercase">action de formation par apprentissage</mj-text>
+        <mj-text padding="0" font-size="14px" line-height="18px" font-weight="400">La certification qualité a été délivrée au titre des catégories d'actions suivantes :</mj-text>
+        <mj-text padding="0" font-size="14px" line-height="18px" font-weight="400" text-transform="uppercase">action de formation </mj-text>
+        <mj-text padding="0" font-size="14px" line-height="18px" font-weight="400" text-transform="uppercase">action de formation par apprentissage</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="0">
