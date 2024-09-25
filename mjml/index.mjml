@@ -128,34 +128,50 @@
       </mj-column>
       <mj-group width="50%">
         <mj-column background-color="#edf2F7" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/NghZ413/GG-SMA.jpg" alt="GC SMA BTP"></mj-image>
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/NghZ413/GG-SMA.jpg" alt="logo GC SMA BTP"/>
         </mj-column>
         <mj-column background-color="#edf2F7" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/9V7ywWW/G-AXA1.jpg" alt="AXA assurance"></mj-image>
-        </mj-column>
-      </mj-group>
-      <mj-group width="50%">
-        <mj-column background-color="#edf2F7" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/9TCzHwq/Deledalle-Assurance.jpg" alt="Deledalle assurance"></mj-image>
-        </mj-column>
-        <mj-column background-color="#edf2F7" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/NZPRJtt/G-Credit-Agricole.jpg" alt="Crédit Agricole"></mj-image>
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/9V7ywWW/G-AXA1.jpg" alt="logo AXA assurance"/>
         </mj-column>
       </mj-group>
       <mj-group width="50%">
         <mj-column background-color="#edf2F7" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/sjtrmH8/GG-Swiss-Life.jpg" alt="Swiss life"></mj-image>
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/9TCzHwq/Deledalle-Assurance.jpg" alt="logo Deledalle assurance"/>
         </mj-column>
         <mj-column background-color="#edf2F7" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/tXkd5WQ/G-HENNER.jpg" alt="Groupe Henner"></mj-image>
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/qN5kPmq/Logo2M.jpg" alt="logo 2M votre courtier assurances"/>
         </mj-column>
       </mj-group>
       <mj-group width="50%">
         <mj-column background-color="#edf2F7" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/t3bKgS6/G-MMA.jpg" alt="MMA assurance"></mj-image>
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/sjtrmH8/GG-Swiss-Life.jpg" alt="logo Swiss life"/>
         </mj-column>
         <mj-column background-color="#edf2F7" padding="2px">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/mcbYWCB/G-Allianz.jpg" alt="Allianz"></mj-image>
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/tXkd5WQ/G-HENNER.jpg" alt="logo Groupe Henner"/>
+        </mj-column>
+      </mj-group>
+      <mj-group width="50%">
+        <mj-column background-color="#edf2F7" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/t3bKgS6/G-MMA.jpg" alt="logo MMA assurance"/>
+        </mj-column>
+        <mj-column background-color="#edf2F7" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/mcbYWCB/G-Allianz.jpg" alt="logo Allianz"/>
+        </mj-column>
+      </mj-group>
+      <mj-group width="50%">
+        <mj-column background-color="#edf2F7" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/YhPzQvH/LogoDiot.jpg" alt="logo Diot Siaci"/>
+        </mj-column>
+        <mj-column background-color="#edf2F7" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/NFccVnr/Logo-Messange.jpg" alt="logo Mesange prevoyance"/>
+        </mj-column>
+      </mj-group>
+      <mj-group width="50%">
+        <mj-column background-color="#edf2F7" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/jHXvBvc/Logo-Sofinco.jpg" alt="logo Sofinco"/>
+        </mj-column>
+        <mj-column background-color="#edf2F7" padding="2px">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/PZskzYv/Logo-Kelly-Gris.jpg" alt="logo Kelly et Gi Groupe"/>
         </mj-column>
       </mj-group>
     </mj-section>
